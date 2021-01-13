@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"agregar producto al carrito","Buscar un producto para agregar al carrito","SUCCESS","2020-12-04T15:05:00.7062569-05:00[America/Bogota]","0.0","21.84"
+"agregar producto al carrito","Agregar al carrito un producto desde una categoria","SUCCESS","2020-12-04T15:05:23.4984404-05:00[America/Bogota]","0.0","16.52"
+"agregar producto al carrito","Agregar al carrito un producto con cantidad superior a uno","SUCCESS","2020-12-04T15:05:40.7307297-05:00[America/Bogota]","0.0","16.24"
+"agregar producto al carrito","Agregar Mas De Doce Digitos En La Cantidad De Productos","FAILURE","2020-12-04T15:05:57.6689741-05:00[America/Bogota]","0.0","15.32"
+"agregar producto al carrito","Agregar Una Letra En La Cantidad De Productos","SUCCESS","2020-12-04T15:06:14.0403389-05:00[America/Bogota]","0.0","15.79"
+"agregar producto al carrito","Agregar un producto desde el Home","SUCCESS","2020-12-04T15:06:30.5392921-05:00[America/Bogota]","0.0","23.05"
